@@ -1,13 +1,7 @@
-
-[![NPM version](https://img.shields.io/npm/v/bootoast.svg?style=flat-square&label=npm)](https://www.npmjs.com/package/bootoast)
-![NPM downloads](https://img.shields.io/npm/dt/bootoast.svg?style=flat-square&label=npm%20downloads)
-[![License](https://img.shields.io/npm/l/qoopido.demand.svg?style=flat-square)](https://github.com/odahcam/bootoast)
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/884fb7b79aa446acaa60b1ff22e5429a)](https://www.codacy.com/app/odahcam/bootoast?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=odahcam/bootoast&amp;utm_campaign=Badge_Grade)
-[![Maintainability](https://api.codeclimate.com/v1/badges/2ebe930bdb2803dbfdbb/maintainability)](https://codeclimate.com/github/odahcam/bootoast/maintainability)
-
-
 # Bootoast 🔥 fork for Bootstrap 5
+
+[![buymeacoffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tabdiukov)
+
 
 ![Illustration](/.idea/10.PNG)
 
@@ -26,6 +20,13 @@ This is an fork with changes to make the code more compatible with Bootstrap 5
 -----------------------------
 
 # Bootoast 🔥
+
+[![NPM version](https://img.shields.io/npm/v/bootoast.svg?style=flat-square&label=npm)](https://www.npmjs.com/package/bootoast)
+![NPM downloads](https://img.shields.io/npm/dt/bootoast.svg?style=flat-square&label=npm%20downloads)
+[![License](https://img.shields.io/npm/l/qoopido.demand.svg?style=flat-square)](https://github.com/odahcam/bootoast)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/884fb7b79aa446acaa60b1ff22e5429a)](https://www.codacy.com/app/odahcam/bootoast?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=odahcam/bootoast&amp;utm_campaign=Badge_Grade)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2ebe930bdb2803dbfdbb/maintainability)](https://codeclimate.com/github/odahcam/bootoast/maintainability)
 
 > A [*Boot*][0]strap T[*oast*][1]er library.
 > 
